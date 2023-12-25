@@ -1,0 +1,11 @@
+.container__formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.container__formulario button {
+  background-color: blueviolet;
+}
+.container__formulario:hover button {
+  background-color: #9842e9;
+}
